@@ -1,0 +1,22 @@
+{
+  "name": "ttk-server-microservice",
+  "version": "0.0.1",
+  "description": "ttk 微服务",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvaolin/ttk-server-microservice.git"
+  },
+  "keywords": [
+    "java"
+  ],
+  "author": "lval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvaolin/ttk-server-microservice/issues"
+  },
+  "homepage": "https://github.com/lvaolin/ttk-server-microservice#readme"
+}
